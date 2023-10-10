@@ -10,3 +10,5 @@ cd sls-notification-service
 npm i
 sls deploy --verbose
 ```
+
+Work based on @arielweinberger's course
