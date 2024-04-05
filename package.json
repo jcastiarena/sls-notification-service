@@ -2,8 +2,8 @@
   "name": "sls-notification-service",
   "version": "1.0.0",
   "devDependencies": {
-    "@babel/core": "^7.22.11",
-    "@babel/preset-env": "^7.22.14",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.0",
     "aws-sdk": "^2.1447.0",
     "babel-cli": "^6.26.0",
     "serverless-bundle": "^6.0.0"
