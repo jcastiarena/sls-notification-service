@@ -9,6 +9,6 @@
     "serverless-bundle": "^6.1.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.639.0"
+    "aws-sdk": "2.1591.0"
   }
 }
